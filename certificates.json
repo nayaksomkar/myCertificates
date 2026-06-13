@@ -1,10 +1,4 @@
 {
-  "certificateFORMAT": {
-    "Title": "...",
-    "pathJPG": "CertificateJPG/certtificate_00.jpg",
-    "pathPDF": "CertificatePDF/certificate_00.pdf",
-    "udemyURL": "https://udemy-certificate..."
-  },
   "certificate_01": {
     "Title": "Master Git and GitHub in 5 Days: Go from Zero to Hero",
     "pathJPG": "CertificateJPG/certtificate_01.jpg",
