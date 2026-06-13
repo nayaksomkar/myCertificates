@@ -1,0 +1,20 @@
+{
+  "certificateFORMAT": {
+    "Title": "...",
+    "pathJPG": "CertificateJPG/certtificate_00.jpg",
+    "pathPDF": "CertificatePDF/certificate_00.pdf",
+    "udemyURL": "https://udemy-certificate..."
+  },
+  "certificate_01": {
+    "Title": "Master Git and GitHub in 5 Days: Go from Zero to Hero",
+    "pathJPG": "CertificateJPG/certtificate_01.jpg",
+    "pathPDF": "CertificatePDF/certificate_01.pdf",
+    "udemyURL": "https://www.udemy.com/certificate/UC-49416251-ee1a-4e4f-8919-dff241e1f49c/"
+  },
+  "certificate_02": {
+    "Title": "AI Automation: Build LLM Apps & AI-Agents with n8n & APIs",
+    "pathJPG": "CertificateJPG/certtificate_02.jpg",
+    "pathPDF": "CertificatePDF/certificate_02.pdf",
+    "udemyURL": "https://www.udemy.com/certificate/UC-eac68316-1dd1-4650-8b69-89586e473c45/"
+  }
+}
