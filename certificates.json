@@ -16,5 +16,17 @@
     "pathJPG": "CertificateJPG/certificate_03.jpg",
     "pathPDF": "CertificatePDF/certificate_03.pdf",
     "udemyURL": "https://www.udemy.com/certificate/UC-d4eb91bd-bbee-4129-bf80-06ce28856b76/"
+  },
+  "certificate_04": {
+    "Title": "Mastering GenAI: Fine-Tune & Adapt LLMs Effectively",
+    "pathJPG": "CertificateJPG/certificate_04.jpg",
+    "pathPDF": "CertificatePDF/certificate_04.pdf",
+    "udemyURL": "https://www.udemy.com/certificate/UC-0a657ddc-8e2c-45ba-84f8-241bf5597833/"
+  },
+  "certificate_05": {
+    "Title": "LLM Concepts Deep Dive: Conceptual Mastery for Developers",
+    "pathJPG": "CertificateJPG/certificate_05.jpg",
+    "pathPDF": "CertificatePDF/certificate_05.pdf",
+    "udemyURL": "https://www.udemy.com/certificate/UC-af5d618b-dde6-4451-a9f0-e420bfc4bc84/"
   }
 }
