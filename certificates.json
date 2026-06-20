@@ -28,5 +28,11 @@
     "pathJPG": "CertificateJPG/certificate_05.jpg",
     "pathPDF": "CertificatePDF/certificate_05.pdf",
     "udemyURL": "https://www.udemy.com/certificate/UC-af5d618b-dde6-4451-a9f0-e420bfc4bc84/"
+  },
+  "certificate_06": {
+    "Title": "Fundamentals of SLM Fine-Tuning: LoRA, Quantization & Edge",
+    "pathJPG": "CertificateJPG/certificate_06.jpg",
+    "pathPDF": "CertificatePDF/certificate_06.pdf",
+    "udemyURL": "https://www.udemy.com/certificate/UC-2c82c5a9-40e9-4556-9657-f82c3c0583c2/"
   }
 }
